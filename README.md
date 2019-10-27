@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Hi my name is Matthew and I go to Cal Poly.
